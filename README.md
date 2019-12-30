@@ -1,6 +1,6 @@
 ## Extreme Relative Pose Network under Hybrid Representations
 
-Implementation of Paper "[Extreme Relative Pose Network under Hybrid Representations](https://github.com/SimingYan/Hybrid_Relative_Pose)".
+Implementation of Paper "[Extreme Relative Pose Network under Hybrid Representations](https://arxiv.org/abs/1912.11695)".
 
 ![alt tag](paper_figure.png)
 
