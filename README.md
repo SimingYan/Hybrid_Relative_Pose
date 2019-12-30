@@ -64,3 +64,17 @@ python baseline_icp.py --dataset {suncg,scannet,matterport} --global_method {our
 ## Author
 
 Zhenpei Yang and Siming Yan
+
+## Citation
+
+If you use our code or method in your work, please cite the following:
+```
+@misc{yang2019extreme,
+    title={Extreme Relative Pose Network under Hybrid Representations},
+    author={Zhenpei Yang and Siming Yan and Qixing Huang},
+    year={2019},
+    eprint={1912.11695},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
